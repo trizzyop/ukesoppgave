@@ -18,7 +18,8 @@ body {
 }
 
 .div-2 {
-    background-color: white;
+    background-image: url("https://media4.giphy.com/media/25Pke1HBWFhjLNrMUe/200.gif");
+    background-size: 250px 250px;
 }
 
 .div-3 {
